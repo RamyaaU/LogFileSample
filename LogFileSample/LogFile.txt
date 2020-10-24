@@ -1,0 +1,2 @@
+﻿2020-10-24 18:16:04.7663|DEBUG|LogFileSample.NLog|Debug successfully: Add()
+2020-10-24 18:16:04.8785|INFO|LogFileSample.NLog|Add() passed..14
